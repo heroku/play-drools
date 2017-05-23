@@ -3,6 +3,10 @@ Play + Drools
 
 Sample application that shows how to integrate a Play Framework (Java) application with Drools.
 
+<a href="https://heroku.com/deploy">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+
 Code:
 
     app/controllers/Application.java   HTTP request handlers
