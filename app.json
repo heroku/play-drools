@@ -1,0 +1,7 @@
+{
+  "name": "Drools Sample app on Heroku",
+  "description": "Running a simple drools rules engine on heroku",
+  "repository": "https://github.com/heroku/play-drools",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["drools", "play", "rulesengine"]
+}
